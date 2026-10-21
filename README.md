@@ -52,6 +52,17 @@ A Python-based project demonstrating problem-solving and programming skills thro
 
 ---
 
+### 5. Exploratory Data Analysis (EDA)
+A collection of EDA projects covering:
+
+- App Insights Analysis
+- Hotel Operations Analysis
+- Heart Health Analysis
+
+**Tools:** Python, Pandas, Matplotlib, Seaborn
+
+---
+
 ## 🎯 Career Objective
 
 Results-driven Data Analyst with 6 months of hands-on experience at Piramal Finance in data analysis, Power BI reporting, dashboard development, and business intelligence. Skilled in SQL, Excel, and data visualization, with a strong ability to generate actionable insights and support data-driven business decisions.
