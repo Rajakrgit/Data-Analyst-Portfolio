@@ -63,6 +63,13 @@ A collection of EDA projects covering:
 
 ---
 
+### 6. App Insights – Tableau
+A Tableau Analyzed app ratings, installs, categories, and user sentiment using interactive Tableau visualizations.
+
+**Tools:** Python
+
+---
+
 ## 🎯 Career Objective
 
 Results-driven Data Analyst with 6 months of hands-on experience at Piramal Finance in data analysis, Power BI reporting, dashboard development, and business intelligence. Skilled in SQL, Excel, and data visualization, with a strong ability to generate actionable insights and support data-driven business decisions.
