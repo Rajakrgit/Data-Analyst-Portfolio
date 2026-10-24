@@ -66,7 +66,7 @@ A collection of EDA projects covering:
 ### 6. App Insights – Tableau
 A Tableau Analyzed app ratings, installs, categories, and user sentiment using interactive Tableau visualizations.
 
-**Tools:** Python
+**Tools:** Tableau
 
 ---
 
